@@ -1,3 +1,26 @@
+## ur_msgs (humble) - 2.1.0-1
+
+The packages in the `ur_msgs` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble ur_msgs --override-release-repository-push-url git@github.com:revyos-ros/ur_msgs-release.git` on `Fri, 13 Dec 2024 10:48:48 -0000`
+
+The `ur_msgs` package was released.
+
+Version of package(s) in repository `ur_msgs`:
+
+- upstream repository: https://github.com/ros-industrial/ur_msgs.git
+- release repository: https://github.com/revyos-ros/ur_msgs-release.git
+- rosdistro version: `2.1.0-1`
+- old version: `2.0.1-1`
+- new version: `2.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## ur_msgs (humble) - 2.0.1-1
 
 The packages in the `ur_msgs` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble ur_msgs --override-release-repository-push-url git@github.com:revyos-ros/ur_msgs-release.git` on `Tue, 08 Oct 2024 07:26:25 -0000`
